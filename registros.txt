@@ -1,0 +1,11 @@
+201760281,Alumno,Ricardo,8.4
+201760282,Alumno,Enrique,8.8
+201760283,Alumno,Damian,9.2
+201760284,Alumno,Luis Enrique,9.7
+201760285,Alumno,Xochitl,9.7
+201760286,Alumno,Franco,6
+201760287,Alumno,Saul,9.1
+201760288,Profesor,Profe 1,5
+201760289,Profesor,Profe 2,6
+201760290,Profesor,Profe 3,7
+201760291,Profesor,Profe 4,8
